@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quotamatic</string>
+
+    <string-array name="quotes">
+        <item>Knowing is not enough, we must apply. Willing is not enough, we must do.#Bruce Lee</item>
+        <item>If you have a dream, don\’t just sit there. Gather courage to believe that you can succeed and leave no stone unturned to make it a reality.#Dr Roopleen</item>
+        <item>Your value doesn\'t decrease based on someone\'s inability to see your worth.#Unknown</item>
+        <item>Idealistic as it may sound, altruism should be the driving force in business, not just competition and a desire for wealth.#Dalai Lama</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>@android:color/holo_green_light</item>
+        <item>@android:color/holo_red_dark</item>
+        <item>@android:color/holo_blue_light</item>
+    </string-array>
+
+    <string-array name="colors">
+        <!--<item>#ff0000</item>-->
+        <!--<item>#00ff00</item>-->
+        <!--<item>#0000ff</item>-->
+        <!--<item>#352436</item>-->
+        <!--<item>#789564</item>-->
+        <!--<item>#235246</item>-->
+        <!--<item>#7544e6</item>-->
+        <!--<item>#135636</item>-->
+        <!--<item>#543549</item>-->
+        <!--<item>#987556</item>-->
+        <!--<item>#326564</item>-->
+        <!--<item>#777758</item>-->
+        <!--<item>#f1476b</item>-->
+        <!--<item>#5950de</item> //-->
+        <!--<item>#9359ec</item>-->
+        <item>#83e043</item>
+        <item>#d73314</item>
+        <item>#fac221</item>
+        <item>#52b7fb</item>
+    </string-array>
+</resources>
